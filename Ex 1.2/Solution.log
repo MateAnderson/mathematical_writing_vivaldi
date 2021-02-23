@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.12)  23 FEB 2021 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.12)  23 FEB 2021 14:32
 entering extended mode
 **"C:/Users/Mohamadreza.a/Documents/GitHub/mathematical_writing_vivaldi/Ex 1.2/
 Solution.tex"
@@ -82,7 +82,7 @@ Here is how much of TeX's memory you used:
  16840 multiletter control sequences out of 15000+200000
  539786 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,6n,31p,308b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,31p,310b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Mohamadreza.a\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
 our/jknappen/ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
@@ -93,7 +93,7 @@ ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Solution.pdf (2 pages, 101596 bytes).
+Output written on Solution.pdf (2 pages, 101832 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
