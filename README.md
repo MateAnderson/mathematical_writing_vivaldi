@@ -1,2 +1,3 @@
-# mathematical_writing_vivaldi
+# mathematical writing Franco vivaldi
+Mathematical Writing | Franco Vivaldi | Springer | 2014
 Exercises solution
