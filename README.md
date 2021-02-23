@@ -1,0 +1,2 @@
+# mathematical_writing_vivaldi
+Exercises solution
